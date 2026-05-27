@@ -30,7 +30,7 @@ function About() {
             and seamless financial management.
           </p>
 
-          <button className="mt-8 bg-white text-black px-6 py-3 rounded-full font-semibold hover:scale-105 transition">
+          <button className="mt-8 bg-white text-black px-6 py-3 rounded-full font-semibold hover:scale-110 transition duration-300">
             Explore More
           </button>
         </div>

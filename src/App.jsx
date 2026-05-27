@@ -5,6 +5,7 @@ import Features from "./components/Features"
 import Testimonials from "./components/Testimonials"
 import Security from "./components/Security"
 import Footer from "./components/Footer"
+import Marquee from "./components/Marquee"
 
 function App() {
   return (
@@ -14,8 +15,9 @@ function App() {
       <About />
       <Features />
       <Testimonials />
-      <Security/>
-      <Footer/>
+      <Security />
+      <Footer />
+      <Marquee />
     </>
   )
 }
